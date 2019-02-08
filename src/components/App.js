@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  const greeting = "good morning!";
+  const greeting = "good evening!";
 
   return (
     <div>
