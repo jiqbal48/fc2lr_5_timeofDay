@@ -7,7 +7,7 @@ const App = () => {
   if (timeOfDay < 12) {
     greeting = "good morning";
   } else if (timeOfDay > 12 && timeOfDay < 17) {
-    greeting = "good afternoon";
+    greeting = "good afternoon.";
   } else {
     greeting = "good evening";
   }
